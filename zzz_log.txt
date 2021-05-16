@@ -1,0 +1,58 @@
+log: textdescramble.py war-and-peace.txt zzz_student.txt zzz_descrambled.txt bigram 20000
+      0:qcfybfgpeqandzeqeprbyhvqabyqnfgpebfbgqqephqcafbqedkqtafnqlavyqeatpehgdqkattfbgqbhuqnatpfbgtqavdrbyq
+    500: rudnucht alovt thindem and luchtnunc  the raun top saul yamd tashteco passunc new lashuncs amoind 
+   1000: sudnught amopt thinder and mughtnung  the saun tof laum yard talhtego fallung new malhungl aroind 
+   1500: sudnught amoft thindel and mughtnung  the saun top raum yald tarhtego parrung new marhungr aloind 
+   2000: sudnught amoft thinder and mughtnung  the saun top laum yard talhtego pallung new malhungl aroind 
+   2500: sudnught apoft thindel and pughtnung  the saun tom raup yald tarhtego marrung new parhungr aloind 
+   3000: sudnught apoft thinder and pughtnung  the saun tom laup yard talhtego mallung new palhungl aroind 
+   3500: ludnught apoft thinder and pughtnung  the laun tom saup yard tashtego massung new pashungs aroind 
+   4000: mudnught aloft thinder and lughtnung  the maun top saul yard tashtego passung new lashungs aroind 
+   4500: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+   5000: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+   5500: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+   6000: mudnught aloft thinder and lughtnung  the maun top saul yard tashtego passung new lashungs aroind 
+   6500: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+   7000: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+   7500: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+   8000: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+   8500: mudnught alokt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+   9000: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+   9500: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+  10000: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+  10500: mudnught aloft thinder and lughtnung  the maun top saul yard tashtego passung new lashungs aroind 
+  11000: mudnught aloft thinder and lughtnung  the maun top saul yard tashtego passung new lashungs aroind 
+  11500: mudnught aloft thinder and lughtnung  the maun top saul yard tashtego passung new lashungs aroind 
+  12000: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+  12500: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+  13000: mudnught aloft thinder and lughtnung  the maun top saul yard tashtego passung new lashungs aroind 
+  13500: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+  14000: mudnught aloft thinder and lughtnung  the maun top saul yard tashtego passung new lashungs aroind 
+  14500: mudnught aloft thinder and lughtnung  the maun top saul yard tashtego passung new lashungs aroind 
+  15000: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+  15500: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+  16000: mudnught aloft thinder and lughtnung  the maun top saul yard tashtego passung new lashungs aroind 
+  16500: mudnught aloft thinder and lughtnung  the maun tov saul yard tashtego vassung new lashungs aroind 
+  17000: mudnught aloft thinder and lughtnung  the maun top saul yard tashtego passung new lashungs aroind 
+  17500: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+  18000: mudnught alovt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+  18500: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+  19000: mudnught aloft thinder and lughtnung  the maun top saul yard tashtego passung new lashungs aroind 
+  19500: mudnught alopt thinder and lughtnung  the maun tof saul yard tashtego fassung new lashungs aroind 
+key obtained: "ankotugexcfyjlzh ivswrbmdpq"
+
+
+log: MANUALLY DONE
+  Python 3.7.3 (default, Apr  3 2019, 05:39:12) 
+  [GCC 8.3.0] on linux
+  Type "help", "copyright", "credits" or "license" for more information.
+  >>> from textdescramble import *
+  >>> text = read_text('zzz_student.txt')
+  >>> scramble(text, "ankotigexcpyjlzh uvswrbmdfq")
+  ' midnight aloft thunder and lightning  the main top sail yard tashtego passing new lashings around it  um um um stop that thunder plenty too much thunder up here whats the use of thunder um um um we dont want thunder we want rum gibe us a glass of rum um um um   '
+  >>> fp = open('zzz_descrambled_final.txt', 'w')
+  >>> fp.write(scramble(text, "ankotigexcpyjlzh uvswrbmdfq"))
+  263
+  >>> fp.close()
+key obtained: "ankotigexcpyjlzh uvswrbmdfq"
+

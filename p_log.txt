@@ -1,0 +1,22 @@
+log: textdescramble.py war-and-peace.txt p_student.txt p_descrambled.txt bigram 10000
+      0:cqzecvejkfgcc hqzejckhddyecjfvechgscmgchckmyscnfmbecf cpghvvpkmglchpqzfjmqxcfjsejescqzecvbhqqejescd
+    500: she oeldan  mrshel drppte laoe rnf in r ditf vaice am unroouding rushalisk alfelef she ocrsselef p
+   1000: the selmon  dathel mappre lose anf in a mirf voice od unassuming autholity olfelef the scattelef p
+   1500: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   2000: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   2500: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   3000: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   3500: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   4000: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   4500: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   5000: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   5500: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   6000: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   6500: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   7000: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   7500: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   8000: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   8500: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   9000: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+   9500: the sermon  father mapple rose and in a mild voice of unassuming authority ordered the scattered p
+key obtained: "kc peonabrmgijqutwdvxszylhf"

@@ -1,0 +1,22 @@
+log: textdescramble.py war-and-peace.txt rrr_student.txt rrr_descrambled.txt bigram 10000
+      0:mjlj iwfa mmjk ugjhmokpamuleeajabmkjm uamelsslhamckp udm uamoaj gkjgjhmskmlz apmlmzgjampijmcamslzat
+    500: nansmcies  noshund pore habbeneg on she battade worshk she pensuonund to afser a fune rmn we tafel
+   1000: nantucket  nothind more happeneg on the passade worthy the mentionind so after a fine run we safel
+   1500: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   2000: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   2500: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   3000: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   3500: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   4000: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   4500: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   5000: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   5500: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   6000: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   6500: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   7000: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   7500: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   8000: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   8500: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   9000: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+   9500: nantucket  nothing more happened on the passage worthy the mentioning so after a fine run we safel
+key obtained: "edwypkigunoa vjrqbslhxcmzft"
