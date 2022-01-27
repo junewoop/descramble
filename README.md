@@ -1,3 +1,3 @@
 # descramble
 
-[Readme.pdf](/Readme.pdf)
+[README.pdf](/README.pdf)
